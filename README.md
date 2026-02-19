@@ -117,17 +117,19 @@ SHAP analysis confirmed that:
 
 ## 📁 Repository Structure
 
+```
 customer-churn-prediction/
 │
 ├── notebooks/
-│ └── customer_churn_master.ipynb
+│   └── customer_churn_master.ipynb
 │
 ├── models/
-│ ├── final_model.pkl
-│ └── scaler.pkl
+│   ├── final_model.pkl
+│   └── scaler.pkl
 │
 ├── requirements.txt
 └── README.md
+```
 
 ---
 
