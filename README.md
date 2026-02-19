@@ -117,3 +117,43 @@ SHAP analysis confirmed that:
 
 ## 📁 Repository Structure
 
+customer-churn-prediction/
+│
+├── notebooks/
+│ └── customer_churn_master.ipynb
+│
+├── models/
+│ ├── final_model.pkl
+│ └── scaler.pkl
+│
+├── requirements.txt
+└── README.md
+
+---
+
+## 🚀 Future Improvements
+
+- Cost-sensitive learning
+- Real-time deployment (Streamlit / FastAPI)
+- Business ROI simulation
+- Cross-dataset validation
+- Automated ML pipeline structuring
+
+---
+
+## 📌 Conclusion
+
+This project demonstrates:
+
+- End-to-end ML pipeline development
+- Structured experimentation & model comparison
+- Hyperparameter tuning with cross-validation
+- Business-aligned threshold optimization
+- Advanced explainability using SHAP
+- Actionable strategic insights
+
+The final solution balances performance, interpretability, and business value.
+
+---
+
+⭐ If you found this project useful, feel free to star the repository.
